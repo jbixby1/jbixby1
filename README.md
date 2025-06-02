@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbixby1
-- 👀 I’m interested in ML, AI, advanced analytics, python, R, Julia, agent-based modeling, project mgmt
+- 👀 I’m interested in Geospatial, ML, AI, advanced analytics, python, R, Julia, agent-based modeling, project & program mgmt
 - 🌱 I’m currently working on financial engineering projects along with advanced deep learning capabilities
 - 📫 How to reach me email (jdb1a1@gmail.com)
 
